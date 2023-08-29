@@ -1,11 +1,4 @@
-@font-face{
-  font-family: 'SF';
-  src: url('\\sf.OTF');
-}
-@font-face {
-  font-family: 'SF Bold';
-  src: url('\\sf_bold.OTF');
-}
+
 .App {
   text-align: center;
   min-height: 100vh;
@@ -14,11 +7,9 @@
   align-items: center;
   justify-content: center;
   transition: background-color 0.3s ease;
-  font-family:"SF";
+
 }
-h1 {
-  font-family:"SF Bold";
-}
+
 
 .App-header {
   background-color: #282c34;
